@@ -16,15 +16,24 @@ This project connects to the **Hexagon Smart Cloud API** to fetch and process wo
 ## Project Structure
 
 WorkOrder/
-├── workorder.ipynb
-├── environment.yml
 ├── .env.example
 ├── .gitignore
-└── README.md   (All instructions are here!)
+├── environment.yml
+├── README.md        (All instructions are here!)
+└── workorder.ipynb  
+
+## Getting Started
+
+To run this project on your machine:
+
+1. Clone the repo
+2. Create the environment
+3. Add your `.env` file
+4. Launch the notebook
+
+Follow the full steps above!
 
 ##  Create the Conda Environment 
-
-```bash
 
 conda env create -f environment.yml
 
