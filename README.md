@@ -19,7 +19,7 @@ WorkOrder/
 ├── .env.example
 ├── .gitignore
 ├── environment.yml
-├── README.md        (All instructions are here!)
+├── README.md        
 └── workorder.ipynb  
 
 ```
