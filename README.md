@@ -11,16 +11,18 @@ This project connects to the **Hexagon Smart Cloud API** to fetch and process wo
 - Processes and displays work order data using `pandas`
 - Fully reproducible with a clean `environment.yml`
 
----
+
 
 ## Project Structure
-
+```
 WorkOrder/
 ├── .env.example
 ├── .gitignore
 ├── environment.yml
 ├── README.md        (All instructions are here!)
 └── workorder.ipynb  
+
+```
 
 ## Getting Started
 
